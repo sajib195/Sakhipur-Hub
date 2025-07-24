@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "uploads" # ছবি এখানে সেভ হবে
+public_folder: "/uploads"
+
+collections:
+  - name: "products"
+    label: "পণ্যসমূহ"
+    label_singular: "পণ্য"
+    folder: "_data" # This is a dummy folder, as we edit a single file.
+    file: "products.json" # কোন ফাইলটি এডিট হবে
+    create: true
+    slug: "{{id}}"
+    identifier_field: name
+    fields:
+      - { label: "ID", name: "id", widget: "hidden" }
+      - { label: "পণ্যের নাম", name: "name", widget: "string" }
+      - { label: "দাম", name: "price", widget: "number" }
+      - { label: "পণ্যের ছবি", name: "img", widget: "image" }
+      - { label: "দোকান/উৎস", name: "source", widget: "string" }
+      - { label: "ক্যাটাগরি", name: "category", widget: "select", options: ["food", "supermarket", "cctv"] }
+      - { label: "জনপ্রিয় আইটেম?", name: "popular", widget: "boolean", default: false }
+      - { label: "ছাড় (%)", name: "offer", widget: "number", default: 0, required: false }
