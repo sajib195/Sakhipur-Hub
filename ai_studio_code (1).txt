@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "popular": true,
+    "name": "চিকেন বিরিয়ানি",
+    "price": 180,
+    "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=400",
+    "source": "ক্যাফে গ্রিন চিলি",
+    "category": "food",
+    "offer": 0
+  },
+  {
+    "id": 2,
+    "popular": false,
+    "name": "বিফ শিক কাবাব",
+    "price": 120,
+    "img": "https://images.unsplash.com/photo-1599599810694-b5b37304c272?q=80&w=400",
+    "source": "ক্যাফে গ্রিন চিলি",
+    "category": "food",
+    "offer": 0
+  },
+  {
+    "id": 3,
+    "popular": true,
+    "name": "BBQ চিকেন পিজ্জা (M)",
+    "price": 450,
+    "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=400",
+    "source": "পিজ্জা হাব",
+    "category": "food",
+    "offer": 10
+  },
+  {
+    "id": 4,
+    "popular": false,
+    "name": "ওভেন বেকড পাস্তা",
+    "price": 280,
+    "img": "https://images.unsplash.com/photo-1621996346565-e326b20f545c?q=80&w=400",
+    "source": "পিজ্জা হাব",
+    "category": "food",
+    "offer": 0
+  },
+  {
+    "id": 5,
+    "popular": false,
+    "name": "খাসির কাচ্চি",
+    "price": 250,
+    "img": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?q=80&w=400",
+    "source": "ফুড ভিলেজ",
+    "category": "food",
+    "offer": 0
+  },
+  {
+    "id": 6,
+    "popular": true,
+    "name": "বিফ বার্গার",
+    "price": 180,
+    "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=400",
+    "source": "টেস্টি টাইম",
+    "category": "food",
+    "offer": 0
+  },
+  {
+    "id": 7,
+    "popular": false,
+    "name": "সয়াবিন তেল (৫ লিটার)",
+    "price": 800,
+    "img": "https://images.unsplash.com/photo-1625245414432-0570b99d5119?q=80&w=400",
+    "source": "সখিপুর সুপারশপ",
+    "category": "supermarket",
+    "offer": 5
+  },
+  {
+    "id": 8,
+    "popular": true,
+    "name": "আলু (১ কেজি)",
+    "price": 50,
+    "img": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?q=80&w=400",
+    "source": "দৈনিক বাজার",
+    "category": "supermarket",
+    "offer": 0
+  },
+  {
+    "id": 9,
+    "popular": false,
+    "name": "পেঁয়াজ (১ কেজি)",
+    "price": 90,
+    "img": "https://images.unsplash.com/photo-1587049352851-d481dd923325?q=80&w=400",
+    "source": "দৈনিক বাজার",
+    "category": "supermarket",
+    "offer": 0
+  },
+  {
+    "id": 10,
+    "popular": false,
+    "name": "পোলাও চাল (১ কেজি)",
+    "price": 150,
+    "img": "https://images.unsplash.com/photo-1586201375765-c12eda585259?q=80&w=400",
+    "source": "আস্থা মার্ট",
+    "category": "supermarket",
+    "offer": 0
+  },
+  {
+    "id": 11,
+    "popular": true,
+    "name": "ওয়াইফাই স্মার্ট ক্যামেরা ৩৬০°",
+    "price": 2200,
+    "img": "https://images.unsplash.com/photo-1549492423-400259a45795?q=80&w=400",
+    "source": "CCTV শপ",
+    "category": "cctv",
+    "offer": 0
+  },
+  {
+    "id": 12,
+    "popular": false,
+    "name": "ডাহুয়া ইনডোর ডোম ক্যামেরা (2MP)",
+    "price": 1800,
+    "img": "https://images.unsplash.com/photo-1617394829738-95388c3a5042?q=80&w=400",
+    "source": "CCTV শপ",
+    "category": "cctv",
+    "offer": 15
+  },
+  {
+    "id": 13,
+    "popular": false,
+    "name": "৪ চ্যানেল ডিভিআর (DVR)",
+    "price": 3500,
+    "img": "https://placehold.co/400x400/3f51b5/FFFFFF/png?text=DVR",
+    "source": "CCTV শপ",
+    "category": "cctv",
+    "offer": 0
+  }
+]
